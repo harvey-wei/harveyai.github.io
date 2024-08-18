@@ -6,15 +6,7 @@
     <description>Recent content in Posts on Undestanding DDPM</description>
     <generator>Hugo -- 0.131.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Aug 2024 12:58:36 +0800</lastBuildDate>
+    <lastBuildDate></lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Dive deep into DDPM</title>
-      <link>http://localhost:1313/posts/ddpm/</link>
-      <pubDate>Sun, 18 Aug 2024 12:58:36 +0800</pubDate>
-      <guid>http://localhost:1313/posts/ddpm/</guid>
-      <description>What is DDPM?
-Forward diffusion process and reverse reconvery process</description>
-    </item>
   </channel>
 </rss>
